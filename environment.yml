@@ -1,0 +1,17 @@
+name: env
+channels:
+- conda-forge
+- defaults
+dependencies:
+- numpy
+- scipy
+- xarray
+- pandas
+- dask
+- jupyter
+- jupyterlab
+- matplotlib
+- pip    
+- pip:
+  - jupyterlab_latex
+
