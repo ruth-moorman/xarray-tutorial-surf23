@@ -10,3 +10,4 @@ dependencies:
 - jupyter
 - jupyterlab
 - matplotlib
+- cartopy
